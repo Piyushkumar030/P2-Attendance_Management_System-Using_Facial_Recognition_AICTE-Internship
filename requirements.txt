@@ -1,0 +1,8 @@
+opencv-python
+pillow
+pandas
+numpy
+mysql-connector-python
+Pillow
+tk
+
