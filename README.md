@@ -1,4 +1,4 @@
-# P2-Attendance_Management_System-Using_Facial_Recognition_AICTE-Internship
+# Attendance_Management_System-Using_Facial_Recognition_AICTE-Internship
 
 ## Overview of the project
 The "Attendance Management System" is a Python-driven application that automates attendance tracking using facial recognition. With OpenCV-python powering face detection and recognition, and SQLite managing the database for user and attendance records, the system ensures reliability and hold good functionality. A user-friendly interface built with Tkinter enhances accessibility.Its  features include capturing training images, real-time recognition, and streamlined attendance management.
