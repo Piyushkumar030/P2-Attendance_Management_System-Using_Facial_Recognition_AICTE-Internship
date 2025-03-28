@@ -36,7 +36,8 @@ The Attendance Management System uses face recognition technology to take attend
 - **Pillow**: A Python Imaging Library (PIL) fork used for processing and handling images (e.g., resizing).
   - Install with: `pip install pillow`
 - **NumPy**: Provides support for large multi-dimensional arrays and matrices, used with OpenCV for face recognition.
-  - Install with: `pip install numpy`
+  - Install with:
+    `pip install numpy`
 
 ---
 
