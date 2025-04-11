@@ -5,7 +5,7 @@ The "Attendance Management System" is a Python-driven application that automates
 
 --- 
 
-
+ 
 * Problem
 Taking attendance manually can be slow, full of mistakes, and not always reliable. In schools, offices, or events, it often causes delays and can be easily misused.
 
